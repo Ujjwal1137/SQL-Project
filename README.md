@@ -1,6 +1,10 @@
 # SQL-Project
 # 🎬 Indian Movies Analysis using SQL
-## Welcome to my SQL project where I have explored and analyzed a dataset based on Indian movies across different languages, genres, and cinema houses!
+![image](https://github.com/user-attachments/assets/4450bca5-5a65-4299-9f89-3d539aab35df)
+
+
+
+### Welcome to my SQL project where I have explored and analyzed a dataset based on Indian movies across different languages, genres, and cinema houses!
 
 ## 📌 Project Overview
 * Analyzed movie data from 2011 to 2025.
@@ -37,3 +41,9 @@ SQL (MySQL)
 * SQL Scripts (Queries)
 
 * Cleaned Dataset
+
+## [Project link](https://www.canva.com/design/DAGkprRGrS4/cBLyWsGBcwrTqhJnKbhrFA/edit?utm_content=DAGkprRGrS4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton/)
+  
+### 📬 Connect with me
+ [LinkedIn Profile](www.linkedin.com/in/ujjwal-bhatia-buisnessanalyst/)
+ 
